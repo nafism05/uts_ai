@@ -62,7 +62,7 @@
 
 			while (!empty($stack)) {
 
-				// masukkan antrian paling depan ke variabel jalur
+				// # masukkan tumpukan paling atas ke variabel jalur
 				$jalur = array_pop($stack);
 
 
